@@ -1,7 +1,7 @@
 ﻿; Windows Installer Internal Error Messages
 ;
 ; Error numbers greater than 2000 are "internal errors" and do not have
-; localized strings in msimsg.dll.  The messages are provided here
+; localized strings in msimsg.dll. The messages are provided here
 ; (in English only) because they can be informative and time-saving
 ; during developement.
 ;
@@ -16,69 +16,69 @@
 2108=Error [3] unregistering type library [2].
 2109=Section missing for INI action.
 2110=Key missing for INI action.
-2111=Detection of running apps failed, could not get performance data. Reg operation returned : [2].
-2112=Detection of running apps failed, could not get performance index. Reg operation returned : [2].
-2113=Detection of running apps failed.
-2200=Database: [2]. Database object creation failed, mode = [3].
-2201=Database: [2]. Initialization failed, out of memory.
-2202=Database: [2]. Data access failed, out of memory.
-2203=Database: [2]. Cannot open database file. System error [3].
-2204=Database: [2]. Table already exists: [3]
-2205=Database: [2]. Table does not exist: [3]
-2206=Database: [2]. Table could not be dropped: [3]
-2207=Database: [2]. Intent violation.
-2208=Database: [2]. Insufficient parameters for Execute.
-2209=Database: [2]. Cursor in invalid state.
-2210=Database: [2]. Invalid update data type in column [3]
-2211=Database: [2]. Could not create database table [3]
-2212=Database: [2]. Database not in writable state.
-2213=Database: [2]. Error saving database tables.
-2214=Database: [2]. Error writing export file: [3]
-2215=Database: [2]. Cannot open import file: [3]
-2216=Database: [2]. Import file format error: [3], Line [4]
-2217=Database: [2]. Wrong state to CreateOutputDatabase [3].
-2218=Database: [2]. Table name not supplied.
-2219=Database: [2]. Invalid Installer database format.
-2220=Database: [2]. Invalid row/field data.
-2221=Database: [2]. Code page conflict in import file: [3].
-2222=Database: [2]. Transform or merge code page [3] differs from database code page [4].
-2223=Database: [2]. Databases are the same. No transform generated.
-2224=Database: [2]. GenerateTransform: Database corrupt. Table: [3]
-2225=Database: [2]. Transform: Cannot transform a temporary table. Table: [3]
-2226=Database: [2]. Transform failed.
-2227=Database: [2]. Invalid identifier '[3]' in SQL query: [4]
-2228=Database: [2]. Unknown table '[3]' in SQL query: [4]
-2229=Database: [2]. Could not load table '[3]' in SQL query: [4]
-2230=Database: [2]. Repeated table '[3]' in SQL query: [4]
-2231=Database: [2]. Missing ')' in SQL query: [3]
-2232=Database: [2]. Unexpected token '[3]' in SQL query: [4]
-2233=Database: [2]. No columns in SELECT clause in SQL query: [3]
-2234=Database: [2]. No columns in ORDER BY clause in SQL query: [3]
-2235=Database: [2]. Column '[3]' not present or ambiguous in SQL query: [4]
-2236=Database: [2]. Invalid operator '[3]' in SQL query: [4]
-2237=Database: [2]. Invalid or missing query string: [3]
-2238=Database: [2]. Missing FROM clause in SQL query: [3]
-2239=Database: [2]. Insufficient values in INSERT SQL stmt.
-2240=Database: [2]. Missing update columns in UPDATE SQL stmt.
-2241=Database: [2]. Missing insert columns in INSERT SQL stmt.
-2242=Database: [2]. Column '[3]' repeated
-2243=Database: [2]. No primary columns defined for table creation.
-2244=Database: [2]. Invalid type specifier '[3]' in SQL query [4].
+2111etection of running apps failed, could not get performance data. Reg operation returned : [2].
+2112etection of running apps failed, could not get performance index. Reg operation returned : [2].
+2113etection of running apps failed.
+2200atabase: [2]. Database object creation failed, mode = [3].
+2201atabase: [2]. Initialization failed, out of memory.
+2202atabase: [2]. Data access failed, out of memory.
+2203atabase: [2]. Cannot open database file. System error [3].
+2204atabase: [2]. Table already exists: [3]
+2205atabase: [2]. Table does not exist: [3]
+2206atabase: [2]. Table could not be dropped: [3]
+2207atabase: [2]. Intent violation.
+2208atabase: [2]. Insufficient parameters for Execute.
+2209atabase: [2]. Cursor in invalid state.
+2210atabase: [2]. Invalid update data type in column [3]
+2211atabase: [2]. Could not create database table [3]
+2212atabase: [2]. Database not in writable state.
+2213atabase: [2]. Error saving database tables.
+2214atabase: [2]. Error writing export file: [3]
+2215atabase: [2]. Cannot open import file: [3]
+2216atabase: [2]. Import file format error: [3], Line [4]
+2217atabase: [2]. Wrong state to CreateOutputDatabase [3].
+2218atabase: [2]. Table name not supplied.
+2219atabase: [2]. Invalid Installer database format.
+2220atabase: [2]. Invalid row/field data.
+2221atabase: [2]. Code page conflict in import file: [3].
+2222atabase: [2]. Transform or merge code page [3] differs from database code page [4].
+2223atabase: [2]. Databases are the same. No transform generated.
+2224atabase: [2]. GenerateTransform: Database corrupt. Table: [3]
+2225atabase: [2]. Transform: Cannot transform a temporary table. Table: [3]
+2226atabase: [2]. Transform failed.
+2227atabase: [2]. Invalid identifier '[3]' in SQL query: [4]
+2228atabase: [2]. Unknown table '[3]' in SQL query: [4]
+2229atabase: [2]. Could not load table '[3]' in SQL query: [4]
+2230atabase: [2]. Repeated table '[3]' in SQL query: [4]
+2231atabase: [2]. Missing ')' in SQL query: [3]
+2232atabase: [2]. Unexpected token '[3]' in SQL query: [4]
+2233atabase: [2]. No columns in SELECT clause in SQL query: [3]
+2234atabase: [2]. No columns in ORDER BY clause in SQL query: [3]
+2235atabase: [2]. Column '[3]' not present or ambiguous in SQL query: [4]
+2236atabase: [2]. Invalid operator '[3]' in SQL query: [4]
+2237atabase: [2]. Invalid or missing query string: [3]
+2238atabase: [2]. Missing FROM clause in SQL query: [3]
+2239atabase: [2]. Insufficient values in INSERT SQL stmt.
+2240atabase: [2]. Missing update columns in UPDATE SQL stmt.
+2241atabase: [2]. Missing insert columns in INSERT SQL stmt.
+2242atabase: [2]. Column '[3]' repeated
+2243atabase: [2]. No primary columns defined for table creation.
+2244atabase: [2]. Invalid type specifier '[3]' in SQL query [4].
 2245=IStorage::Stat failed with error [3]
-2246=Database: [2]. Invalid Installer transform format.
-2247=Database: [2] Transform stream read/write failure.
-2248=Database: [2] GenerateTransform/Merge: Column type in base table doesn't match reference table. Table: [3] Col #: [4]
-2249=Database: [2] GenerateTransform: More columns in base table than in reference table. Table: [3]
-2250=Database: [2] Transform: Cannot add existing row. Table: [3]
-2251=Database: [2] Transform: Cannot delete row that doesn't exist. Table: [3]
-2252=Database: [2] Transform: Cannot add existing table. Table: [3]
-2253=Database: [2] Transform: Cannot delete table that doesn't exist. Table: [3]
-2254=Database: [2] Transform: Cannot update row that doesn't exist. Table: [3]
-2255=Database: [2] Transform: Column with this name already exists. Table: [3] Col: [4]
-2256=Database: [2] GenerateTransform/Merge: Number of primary keys in base table doesn't match reference table. Table: [3]
-2257=Database: [2]. Intent to modify read only table: [3]
-2258=Database: [2]. Type mismatch in parameter: [3]
-2259=Database: [2] Table(s) Update failed.
+2246atabase: [2]. Invalid Installer transform format.
+2247atabase: [2] Transform stream read/write failure.
+2248atabase: [2] GenerateTransform/Merge: Column type in base table doesn't match reference table. Table: [3] Col #: [4]
+2249atabase: [2] GenerateTransform: More columns in base table than in reference table. Table: [3]
+2250atabase: [2] Transform: Cannot add existing row. Table: [3]
+2251atabase: [2] Transform: Cannot delete row that doesn't exist. Table: [3]
+2252atabase: [2] Transform: Cannot add existing table. Table: [3]
+2253atabase: [2] Transform: Cannot delete table that doesn't exist. Table: [3]
+2254atabase: [2] Transform: Cannot update row that doesn't exist. Table: [3]
+2255atabase: [2] Transform: Column with this name already exists. Table: [3] Col: [4]
+2256atabase: [2] GenerateTransform/Merge: Number of primary keys in base table doesn't match reference table. Table: [3]
+2257atabase: [2]. Intent to modify read only table: [3]
+2258atabase: [2]. Type mismatch in parameter: [3]
+2259atabase: [2] Table(s) Update failed.
 2260=Storage CopyTo failed. System error: [3]
 2261=Could not remove stream [2]. System error: [3]
 2262=Stream does not exist: [2]. System error: [3]
@@ -87,28 +87,28 @@
 2265=Could not commit storage. System error: [3]
 2266=Could not rollback storage. System error: [3]
 2267=Could not delete storage [2]. System error: [3]
-2268=Database: [2]. Merge: There were merge conflicts reported in [3] tables.
-2269=Database: [2]. Merge: The column count differed in the '[3]' table of the two databases.
-2270=Database: [2]. GenerateTransform/Merge: Column name in base table doesn't match reference table. Table: [3] Col #: [4]
+2268atabase: [2]. Merge: There were merge conflicts reported in [3] tables.
+2269atabase: [2]. Merge: The column count differed in the '[3]' table of the two databases.
+2270atabase: [2]. GenerateTransform/Merge: Column name in base table doesn't match reference table. Table: [3] Col #: [4]
 2271=SummaryInformation write for transform failed.
-2272=Database: [2]. MergeDatabase will not write any changes because the database is open read-only.
-2273=Database: [2]. MergeDatabase: A reference to the base database was passed as the reference database.
-2274=Database: [2]. MergeDatabase: Unable to write errors to Error table. Could be due to a non-nullable column in a predefined Error table.
-2275=Database: [2]. Specified Modify [3] operation invalid for table joins.
-2276=Database: [2]. Code page [3] not supported by the system.
-2277=Database: [2]. Failed to save table [3].
-2278=Database: [2]. Exceeded number of expressions limit of 32 in WHERE clause of SQL query: [3].
-2279=Database: [2] Transform: Too many columns in base table [3]
-2280=Database: [2]. Could not create column [3] for table [4]
+2272atabase: [2]. MergeDatabase will not write any changes because the database is open read-only.
+2273atabase: [2]. MergeDatabase: A reference to the base database was passed as the reference database.
+2274atabase: [2]. MergeDatabase: Unable to write errors to Error table. Could be due to a non-nullable column in a predefined Error table.
+2275atabase: [2]. Specified Modify [3] operation invalid for table joins.
+2276atabase: [2]. Code page [3] not supported by the system.
+2277atabase: [2]. Failed to save table [3].
+2278atabase: [2]. Exceeded number of expressions limit of 32 in WHERE clause of SQL query: [3].
+2279atabase: [2] Transform: Too many columns in base table [3]
+2280atabase: [2]. Could not create column [3] for table [4]
 2281=Could not rename stream [2]. System error: [3]
 2282=Stream name invalid [2].
-2302=Patch notify: [2] bytes patched to far.
+2302atch notify: [2] bytes patched to far.
 2303=Error getting volume info. GetLastError: [2]
 2304=Error getting disk free space. GetLastError: [2]. Volume: [3]
 2305=Error waiting for patch thread. GetLastError: [2].
 2306=Could not create thread for patch application. GetLastError: [2].
 2307=Source file key name is null.
-2308=Destination File Name is Null
+2308estination File Name is Null
 2309=Attempting to patch file [2] when patch already in progress.
 2310=Attempting to continue patch when no patch is in progress.
 2315=Missing Path Separator: [2]
@@ -129,7 +129,7 @@
 2332=Error getting file attributes. GetLastError: [2]
 2333=Error setting file attributes. GetLastError: [2]
 2334=Error converting file time to local time for file: [3]. GetLastError: [2]
-2335=Path: [2] is not a parent of [3]
+2335ath: [2] is not a parent of [3]
 2336=Error creating temp file on path: [3]. GetLastError: [2]
 2337=Could not close file: [3] GetLastError: [2]
 2338=Could not update resource for file: [3] GetLastError: [2]
@@ -153,7 +153,7 @@
 2357=Cannot set attributes
 2358=Error determining whether file is in-use: [3]. GetLastError: [2]
 2359=Unable to create the target file - file may be in use.
-2360=progress tick.
+2360rogress tick.
 2361=Need next cabinet.
 2362=Folder not found: [2]
 2363=Could not enumerate subfolders for folder: [2]
@@ -164,15 +164,15 @@
 2368=Failed to get network resource information. Error [2], network path [3]. Extended error: network provider [5], error code [4], error description [6].
 2370=Invalid CRC checksum value for [2] file.{ Its header says [3] for checksum, its computed value is [4].}
 2371=Could not apply patch to file [2]. GetLastError: [3]
-2372=Patch file [2] is corrupt or of an invalid format. Attempting to patch file [3]. GetLastError: [4]
+2372atch file [2] is corrupt or of an invalid format. Attempting to patch file [3]. GetLastError: [4]
 2373=File [2] is not a valid patch file.
 2374=File [2] is not a valid destination file for patch file [3].
 2375=Unknown patching error: [2].
 2376=Cabinet not found.
 2379=Error opening file for read: [3] GetLastError: [2]
 2380=Error opening file for write: [3] GetLastError: [2]
-2381=Directory does not exist: [2]
-2382=Drive not ready: [2]
+2381irectory does not exist: [2]
+2382rive not ready: [2]
 2401=64-bit registry operation attempted on 32-bit operating system for key [2].
 2402=Out of memory.
 2501=Could not create rollback script enumerator
@@ -180,7 +180,7 @@
 2503=Called RunScript when not marked in progress.
 2601=Invalid value for property [2]: '[3]'
 2602=The [2] table entry '[3]' has no associated entry in the Media table.
-2603=Duplicate Table Name [2]
+2603uplicate Table Name [2]
 2604=[2] property undefined.
 2605=Could not find server [2] in [3] or [4].
 2606=Value of property [2] is not a valid full path: '[3]'.
@@ -200,7 +200,7 @@
 2621=Resource DLL or Resource ID information for shortcut [2] set incorrectly.
 2701=The Component Table exceeds the acceptable tree depth of [2] levels.
 2702=A Feature Table record ([2]) references a non-existent parent in the Attributes field.
-2703=Property name for root source path not defined: [2]
+2703roperty name for root source path not defined: [2]
 2704=Root directory property undefined: [2]
 2705=Invalid table: [2]; Could not be linked as tree.
 2706=Source paths not created. No path exists for entry [2] in Directory Table
@@ -229,7 +229,7 @@
 2729=Install engine not initialized.
 2730=Bad value in database. Table: '[2]'; Primary key: '[3]'; Column: '[4]'
 2731=Selection Manager not initialized.
-2732=Directory Manager not initialized.
+2732irectory Manager not initialized.
 2733=Bad foreign key ('[2]') in '[3]' column of the '[4]' table.
 2734=Invalid Reinstall mode character.
 2735=Custom action '[2]' has caused an unhandled exception and has been stopped. This may be the result of an internal error in the custom action, such as an access violation.
@@ -271,12 +271,12 @@
 2772=New upgrade feature [2] must be a leaf feature.
 2801=Unknown Message -- Type [2]. No action is taken.
 2802=No publisher is found for the event [2].
-2803=Dialog View did not find a record for the dialog [2].
+2803ialog View did not find a record for the dialog [2].
 2804=On activation of the control [3] on dialog [2], failed to evaluate the condition [3].
 2805=
 2806=The dialog [2] failed to evaluate the condition [3].
 2807=The action [2] is not recognized.
-2808=Default button is ill-defined on dialog [2].
+2808efault button is ill-defined on dialog [2].
 2809=On the dialog [2] the next control pointers do not form a cycle. There is a pointer from [3] to [4], but there is no further pointer.
 2810=On the dialog [2] the next control pointers do not form a cycle. There is a pointer from both [3] and [5] to [4].
 2811=On dialog [2] control [3] has to take focus, but it is unable to do so.
@@ -321,7 +321,7 @@
 2850=Unrecognized volume type.
 2851=The data for the icon [2] is not valid.
 2852=At least one control has to be added to dialog [2] before it is used.
-2853=Dialog [2] is a modeless dialog. The execute method should not be called on it.
+2853ialog [2] is a modeless dialog. The execute method should not be called on it.
 2854=On the dialog [2] the control [3] is designated as first active control, but there is no such control.
 2855=The radio button group [3] on dialog [2] has fewer than 2 buttons.
 2856=Creating a second copy of the dialog [2].
@@ -348,9 +348,9 @@
 2877=The binary data [2] was not found.
 2878=On the dialog [2] the control [3] has a possible value: [4]. This is an invalid or duplicate value.
 2879=The control [3] on dialog [2] cannot parse the mask string: [4]
-2880=Do not perform the remaining control events.
+2880o not perform the remaining control events.
 2881=Initialization failed.
-2882=Dialog window class registration failed.
+2882ialog window class registration failed.
 2883=CreateNewDialog failed for the dialog [2].
 2884=Failed to create a window for the dialog [2]!
 2885=Failed to create the control [3] on the dialog [2].
@@ -394,11 +394,11 @@
 2937=The Windows Installer cannot install a system file protection catalog. Catalog: [2], Error: [3]
 2938=The Windows Installer cannot retrieve a system file protection catalog from the cache. Catalog: [2], Error: [3]
 2939=The Windows Installer cannot delete a system file protection catalog from the cache. Catalog: [2], Error: [3]
-2940=Directory Manager not supplied for source resolution.
+2940irectory Manager not supplied for source resolution.
 2941=Unable to compute the CRC for file [2].
 2942=BindImage action has not been executed on [2] file.
 2943=This version of Windows does not support deploying 64-bit packages. The script [2] is for a 64-bit package.
 2944=GetProductAssignmentType failed.
 2945=Installation of ComPlus App [2] failed with error [3].
-3001=The patches in this list contain incorrect sequencing information: [2][3][4][5][6][7][8][9][10][11][12][13][14][15][16]. 3.0  
-3002=Patch [2] contains invalid sequencing information.
+3001=The patches in this list contain incorrect sequencing information: [2][3][4][5][6][7][8][9][10][11][12][13][14][15][16]. 3.0
+3002atch [2] contains invalid sequencing information.

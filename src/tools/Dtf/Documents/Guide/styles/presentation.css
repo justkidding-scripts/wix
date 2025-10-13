@@ -139,7 +139,7 @@ table.authoredTable td {
 	border-bottom-width: 1px;
 	background: #F7F7FF;
 	padding: 0.2em;
-	vertical-align: top;	
+	vertical-align: top;
 }
 
 div.alert {
@@ -160,7 +160,7 @@ span.keyword {
 }
 
 span.code {
-	font-family: "Andale Mono", "Courier New", Courier, monospace; 
+	font-family: "Andale Mono", "Courier New", Courier, monospace;
 }
 
 /* auto-generated controls */
@@ -351,7 +351,7 @@ span.placeholder {
 a {
 	color: blue;
 	font-weight: bold;
-	text-decoration: none;	
+	text-decoration: none;
 }
 
 MSHelp\:link {
